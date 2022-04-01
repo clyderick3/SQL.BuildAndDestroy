@@ -12,3 +12,7 @@ mysql> describe Users;
 | City      | varchar(255) | YES  |     | NULL    |       |
 +-----------+--------------+------+-----+---------+-------+
 5 rows in set (0.01 sec)
+
+mysql> SELECT * FROM Users;
+Empty set (0.01 sec)
+
